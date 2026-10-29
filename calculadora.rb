@@ -32,7 +32,7 @@ elsif operacao == 3
     numero2 = gets.chomp.to_f 
 
     multi = numero * numero2
-    puts "O resultado sa Multiplicação é:#{multi}"
+    puts "O resultado da Multiplicação é:#{multi}"
 elsif operacao == 4
     puts "digite o valor do dividendo :"
     numero = gets.chomp.to_f
